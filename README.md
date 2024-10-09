@@ -17,3 +17,4 @@ Task 5: Set Up a Cron Job to Run the Python Script
 Create a cron job to run the Python script at regular intervals.
 
 Task 6: Test the Setup 
+Make a new commit to the GitHub repository and check that the changes are automatically deployed. 
