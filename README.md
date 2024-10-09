@@ -12,3 +12,6 @@ Task 3: Write a Python Script to Check for New Commits
  
 Task 4: Write a Bash Script to Deploy the Code
 Create a bash script to clone the latest code and restart Nginx.
+
+Task 5: Set Up a Cron Job to Run the Python Script
+Create a cron job to run the Python script at regular intervals.
