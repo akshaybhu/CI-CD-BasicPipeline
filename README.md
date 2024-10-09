@@ -18,3 +18,15 @@ Create a cron job to run the Python script at regular intervals.
 
 Task 6: Test the Setup 
 Make a new commit to the GitHub repository and check that the changes are automatically deployed. 
+
+ Submission Instructions:
+
+To submit your programs, please follow these guidelines:
+
+-        Ensure that your programs are fully completed.
+
+-        Push your code to a GitHub repository.
+
+-        Share the repository link by including it in a text, Word, or PDF file format.
+
+Submit the file/text containing the repository link via VLearn.
