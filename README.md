@@ -1,7 +1,5 @@
 # CI-CD-BasicPipeline
 
-# Step 1
-
 Task 1: Set Up a Simple HTML Project 
 Create a simple HTML project and push it to a GitHub repository. 
 a. Used simple project that we have created for adding/updating/deleting tasks.
